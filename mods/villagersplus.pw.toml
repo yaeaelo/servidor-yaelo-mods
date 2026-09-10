@@ -1,0 +1,13 @@
+name = "VillagersPlus"
+filename = "villagersplus-fabric-mc1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHGMwNDR/versions/rj1RoHfQ/villagersplus-fabric-mc1.20.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "7c6f1c389cad5ae34d3105f188c007aef615b34295f8ca79d857f03f23118ba83bbc21becff7f811f2d78dcdd258261050013204913ec888da8bfd5b9b8a016f"
+
+[update]
+[update.modrinth]
+mod-id = "oHGMwNDR"
+version = "rj1RoHfQ"

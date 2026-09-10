@@ -1,0 +1,13 @@
+name = "Modder Name Lib"
+filename = "modder_name_lib-1.20.1-fabric-2026.08.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zSoTsKbP/versions/Fd9GCbNm/modder_name_lib-1.20.1-fabric-2026.08.31.jar"
+hash-format = "sha512"
+hash = "b93d137c80dd0f452807d61c9e68980027bb07302d6e87c5dd5948bdb945d74848ff5ab7bb421b17b0fbad3946a421a1793cfbde24257383ea6d7362e4e29771"
+
+[update]
+[update.modrinth]
+mod-id = "zSoTsKbP"
+version = "Fd9GCbNm"
