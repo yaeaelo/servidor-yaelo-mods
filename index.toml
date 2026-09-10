@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
-hash = "d7669ea0e71d5ccb000c856147cfb8e6d64a98f0e1ca8d83cbeda9413639c31b"
+hash = "c47c411661833a06330639f1b81c644208e8640cf20c6eba48a4c20bf19bc46c"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0a2f75b607680f498133e71557084be2a89b5b876388ef9caa40fb4cc566bdff"
+hash = "4c15ffb1fc98a1c635cc715c361c88f7c500e8c9e69bfc190c3e886363b4dfc3"
 metafile = true
 
 [[files]]
