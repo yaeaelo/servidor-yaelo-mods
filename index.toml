@@ -236,6 +236,11 @@ hash = "f5d361718eeb361af9d92aadd042e207b731266c4a82a040e688288d4a1c8153"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "65fdf471d7fa3d9900be27305b5d1aa6805157ee34c122c60481c76fd734abab"
 metafile = true
