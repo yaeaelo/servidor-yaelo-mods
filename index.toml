@@ -271,6 +271,11 @@ hash = "32157b1262c90a4ebee4a24028c39c2753a209b453c03c59391278acd432fc3c"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f0302803c0685ab563b11e93b7bda534681b8c1a7b67dd0431e18c9df645bf9d"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "34b09a15f7842e62815678ed519432c922c10773ed2bcaade898054e0b676de8"
 metafile = true
@@ -508,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ce8868bbecfc78d470fe88663e4128751a4282968adaa5e5676544ecabab6355"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
