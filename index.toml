@@ -696,11 +696,6 @@ hash = "e36e239dcc87f897220e2dbf9ece13d846ee38a10821557b354f383e06101dc1"
 metafile = true
 
 [[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "d0228dd643cb31cb5e2450437c0b0a8721c80cdef0e67cb23f3e3db4bcbc719b"
-metafile = true
-
-[[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "54f10e9a7f2bf8542904fde49294fd188ae9b01b00dd2902971f93c1a15e58cf"
 metafile = true
