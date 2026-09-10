@@ -286,6 +286,11 @@ hash = "65fdf471d7fa3d9900be27305b5d1aa6805157ee34c122c60481c76fd734abab"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
 file = "mods/keybind-fix-updated.pw.toml"
 hash = "46930b6d443f2abe74fb60a2e726e85316b00367a5766a62044ebf0be00e43e3"
 metafile = true
